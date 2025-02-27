@@ -11,6 +11,10 @@
   <a href="https://github.com/nasrcoder">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
+ <a href="https://www.linkedin.com/in/nasrcoder/">
+    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge"/>
+  </a>
+
 </div>
 
 ### Languages and Tools:
