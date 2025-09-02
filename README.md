@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
-- 📫 How to reach me: nasrullahcoder@gmail.com
 - ⚡ Fun fact: I'm Learning The Tech/Technology
   
 ### Connect with me:
